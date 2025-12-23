@@ -8,13 +8,16 @@ Howdy stranger, I've worked in PHP since it was still cool. I've also:
 * Organized multiple large communities (2003-present)
 * Practiced **[Zen Martial Arts](https://zenmartialarts.com)** (2007-present)
 
-I'm delighted to infodump about communities, leadership, or hypermedia at the slightest invitation. Yes, I'd love to hear about your community / education / civics software. No, I will not join your ~~social media~~ ~~big data~~ ~~IoT~~ ~~blockchain~~  AI startup.
+I'm delighted to infodump about communities, leadership, or hypermedia at the slightest invitation. Yes, I'd love to hear about your community / education / civics software. No, I will not join your ~~social media~~ ~~big data~~ ~~IoT~~ ~~NFT~~ ~~crypto~~  AI startup.
+
+![](https://github-readme-stats.vercel.app/api?username=linc&hide=stars&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent)
 
 #### Favored Tools
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![FrankenPHP](https://img.shields.io/badge/frankenphp-%23b3d133.svg?style=for-the-badge&logo=frankenphp&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
